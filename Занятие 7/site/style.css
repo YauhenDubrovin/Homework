@@ -1,0 +1,20 @@
+body {
+background-color: #808080;
+}
+h1 {
+text-align: center; 
+color: #000000;
+font-family: verdana;
+}
+table {
+color: #000000;
+font-family: verdana;
+font-size: 200%;
+margin: auto;
+}
+p {
+color: #000000;
+font-size: 200%;
+font-family: verdana;
+text-align: center;
+}

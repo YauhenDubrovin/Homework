@@ -1,0 +1,31 @@
+1. //span[contains(text(),'Мой Мир')]
+
+2. //i[contains(text(),'Все проекты')]
+
+3. //a[@data-name="pictures"]
+
+4. (//form[@id="search"]/label)[1]
+
+5. //input[@id='search:submit']
+
+6. //a[@href="https://promo.calendar.mail.ru/"]
+
+7. //a[@href="//lady.mail.ru/"]
+
+8. //span[@class="o-dropdown__button tabs__dropdown-button"]
+
+9. //input[@id="mailbox:login"]
+
+10. //label[@for="mailbox:saveauth"]
+
+11. //h3[contains(text(),'Облако')] (ICQ как в домашнем задании нет, вместо него - Облако)
+
+12. (//a[@href='//sportmail.ru'])[3]
+
+13. //div[@id="yandex_ad_R-443824-25_693427877"]
+
+14. //div[contains(@class,"well notify")] (Вместо установки агента как в домашнем задании на сайте сейчас - скачать браузер Атом)
+
+15. (//a[@href="https://news.mail.ru/currency/"])[1]
+
+16. На mail.ru уже нет такой ссылки "Включить ленту"
