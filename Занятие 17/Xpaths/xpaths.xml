@@ -1,0 +1,34 @@
+<list>
+    <element id="1">
+        <name>ALL_FOLDERS_BUTTON_LINK</name>
+        <xpath>//a[@title='Все папки']</xpath>
+    </element>
+    <element id="2">
+        <name>INBOX_FOLDER_BUTTON_LINK</name>
+        <xpath>(//a[@href='/inbox/'])[2]</xpath>
+    </element>
+    <element id="3">
+        <name>SENT_FOLDER_BUTTON_LINK</name>
+        <xpath>(//a[@href='/sent/'])[2]</xpath>
+    </element>
+    <element id="4">
+        <name>DRAFTS_FOLDER_BUTTON_LINK</name>
+        <xpath>(//a[@href='/drafts/'])[2]</xpath>
+    </element>
+    <element id="5">
+        <name>ARCHIVE_FOLDER_BUTTON_LINK</name>
+        <xpath>(//a[@href='/archive/'])[2]</xpath>
+    </element>
+    <element id="6">
+        <name>SPAM_FOLDER_BUTTON_LINK</name>
+        <xpath>(//a[@href='/spam/'])[2]</xpath>
+    </element>
+    <element id="7">
+        <name>TRASH_FOLDER_BUTTON_LINK</name>
+        <xpath>(//a[@href='/trash/'])[2]</xpath>
+    </element>
+    <element id="8">
+        <name>COMPOSE_MAIL_BUTTON_LINK</name>
+        <xpath>//span[@class='compose-button__ico']</xpath>
+    </element>
+</list>
