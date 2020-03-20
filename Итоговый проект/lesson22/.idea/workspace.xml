@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d8d48e2-4a68-46d2-b93a-a309feb8fbd1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZAmzDHcOWVWxwcwW9muMqABqxz" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lesson13/pom.xml" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\maven\lesson22" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\maven\lesson22\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.VkWallTests.testVkWall">
+    <configuration name="MailRuPageTestsRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lesson22" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="finalProject.configuration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="finalProject" />
+      <option name="MAIN_CLASS_NAME" value="finalProject.MailRuPageTestsRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VkWallTests.testVkWall" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lesson22" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="restVk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="restVk" />
+      <option name="MAIN_CLASS_NAME" value="restVk.VkWallTests" />
+      <option name="METHOD_NAME" value="testVkWall" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.VkWallTests.testVkWall" />
+        <item itemvalue="JUnit.MailRuPageTestsRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d8d48e2-4a68-46d2-b93a-a309feb8fbd1" name="Default Changelist" comment="" />
+      <created>1584290532517</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584290532517</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="352" y="0" key="#com.intellij.ide.util.MemberChooser" timestamp="1584300727450">
+      <screen x="0" y="0" width="1093" height="574" />
+    </state>
+    <state x="352" y="0" key="#com.intellij.ide.util.MemberChooser/0.0.1093.574@0.0.1093.574" timestamp="1584300727450" />
+    <state x="157" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1584388759733">
+      <screen x="0" y="0" width="1093" height="574" />
+    </state>
+    <state x="157" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1093.574@0.0.1093.574" timestamp="1584388759733" />
+    <state x="277" y="35" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584386216344">
+      <screen x="0" y="0" width="1093" height="574" />
+    </state>
+    <state x="277" y="35" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1093.574@0.0.1093.574" timestamp="1584386216344" />
+    <state x="179" y="0" key="#xdebugger.evaluate" timestamp="1584385755218">
+      <screen x="0" y="0" width="1093" height="574" />
+    </state>
+    <state x="179" y="0" key="#xdebugger.evaluate/0.0.1093.574@0.0.1093.574" timestamp="1584385755218" />
+    <state x="409" y="55" key="FileChooserDialogImpl" timestamp="1584736055925">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="327" y="43" key="FileChooserDialogImpl/0.0.1093.574@0.0.1093.574" timestamp="1584572527126" />
+    <state x="409" y="55" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584736055925" />
+    <state width="1323" height="2" key="GridCell.Tab.0.bottom" timestamp="1584736731114">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1050" height="181" key="GridCell.Tab.0.bottom/0.0.1093.574@0.0.1093.574" timestamp="1584629365725" />
+    <state width="1323" height="2" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584736731114" />
+    <state width="1323" height="2" key="GridCell.Tab.0.center" timestamp="1584736731114">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1050" height="181" key="GridCell.Tab.0.center/0.0.1093.574@0.0.1093.574" timestamp="1584629365725" />
+    <state width="1323" height="2" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584736731114" />
+    <state width="1323" height="2" key="GridCell.Tab.0.left" timestamp="1584736731113">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1050" height="181" key="GridCell.Tab.0.left/0.0.1093.574@0.0.1093.574" timestamp="1584629365724" />
+    <state width="1323" height="2" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584736731113" />
+    <state width="1323" height="2" key="GridCell.Tab.0.right" timestamp="1584736731114">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1050" height="181" key="GridCell.Tab.0.right/0.0.1093.574@0.0.1093.574" timestamp="1584629365725" />
+    <state width="1323" height="2" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584736731114" />
+    <state width="1050" height="84" key="GridCell.Tab.1.bottom" timestamp="1584391323546">
+      <screen x="0" y="0" width="1093" height="574" />
+    </state>
+    <state width="1050" height="84" key="GridCell.Tab.1.bottom/0.0.1093.574@0.0.1093.574" timestamp="1584391323546" />
+    <state width="1050" height="84" key="GridCell.Tab.1.center" timestamp="1584391323546">
+      <screen x="0" y="0" width="1093" height="574" />
+    </state>
+    <state width="1050" height="84" key="GridCell.Tab.1.center/0.0.1093.574@0.0.1093.574" timestamp="1584391323546" />
+    <state width="1050" height="84" key="GridCell.Tab.1.left" timestamp="1584391323545">
+      <screen x="0" y="0" width="1093" height="574" />
+    </state>
+    <state width="1050" height="84" key="GridCell.Tab.1.left/0.0.1093.574@0.0.1093.574" timestamp="1584391323545" />
+    <state width="1050" height="84" key="GridCell.Tab.1.right" timestamp="1584391323546">
+      <screen x="0" y="0" width="1093" height="574" />
+    </state>
+    <state width="1050" height="84" key="GridCell.Tab.1.right/0.0.1093.574@0.0.1093.574" timestamp="1584391323546" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1584297158082">
+      <screen x="0" y="0" width="1093" height="574" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1093.574@0.0.1093.574" timestamp="1584297158082" />
+    <state x="185" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584302022162">
+      <screen x="0" y="0" width="1093" height="574" />
+    </state>
+    <state x="185" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1093.574@0.0.1093.574" timestamp="1584302022162" />
+  </component>
+</project>

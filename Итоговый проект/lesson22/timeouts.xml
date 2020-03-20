@@ -1,0 +1,14 @@
+<list>
+    <element id="1">
+        <name>Short timeout</name>
+        <length>5</length>
+    </element>
+    <element id="2">
+        <name>Average timeout</name>
+        <length>10</length>
+    </element>
+    <element id="3">
+        <name>Long timeout</name>
+        <length>20</length>
+    </element>
+</list>

@@ -1,0 +1,24 @@
+21:21:53,218  INFO main MailRuPageTests:isSent:94 - test is being performed
+21:23:56,443  INFO main MailRuPageTests:isMovedToSpam:111 - test is being performed
+21:25:05,895  INFO main MailRuPageTests:isMovedFromSpamToInbox:128 - test is being performed
+21:26:22,027  INFO main MailRuPageTests:isDeleted:140 - test is being performed
+21:27:30,854  INFO main MailRuPageTests:isMovedFromSpamToInbox:128 - test is being performed
+21:34:04,037  INFO main MailRuPageTests:isSent:94 - test is being performed
+21:35:54,788  INFO main MailRuPageTests:isMovedToSpam:111 - test is being performed
+21:37:06,283  INFO main MailRuPageTests:isMovedFromSpamToInbox:128 - test is being performed
+21:38:16,865  INFO main MailRuPageTests:isDeleted:140 - test is being performed
+21:39:40,907  INFO main MailRuPageTests:isMovedFromSpamToInbox:128 - test is being performed
+21:40:47,770  INFO main MailRuPageTests:isDeleted:140 - test is being performed
+21:42:00,396  INFO main MailRuPageTests:isMovedToSpam:111 - test is being performed
+21:43:37,732  INFO main MailRuPageTests:isSecondMailVisible:188 - exception is caught
+21:45:08,293  INFO main MailRuPageTests:isFirstMailVisible:206 - exception is caught
+21:46:33,748  INFO main MailRuPageTests:isFirstMailVisible:206 - exception is caught
+23:08:30,913  INFO main MailRuPageTests:isSent:94 - test is being performed
+23:10:02,412  INFO main MailRuPageTests:isMovedToSpam:111 - test is being performed
+23:11:10,900  INFO main MailRuPageTests:isMovedFromSpamToInbox:128 - test is being performed
+23:12:34,135  INFO main MailRuPageTests:isDeleted:140 - test is being performed
+23:15:25,685  INFO main MailRuPageTests:isDeleted:140 - test is being performed
+23:16:26,292  INFO main MailRuPageTests:isMovedToSpam:111 - test is being performed
+23:18:01,251  INFO main MailRuPageTests:isSecondMailVisible:188 - exception is caught
+23:19:18,381  INFO main MailRuPageTests:isFirstMailVisible:206 - exception is caught
+23:20:51,650  INFO main MailRuPageTests:isFirstMailVisible:206 - exception is caught
